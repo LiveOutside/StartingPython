@@ -1,0 +1,5 @@
+file = open('input.bmp', 'rb').read()
+new = file[:54] + bytes([255 - i for i in file[54:]])
+result = open('res.bmp', 'wb')
+result.write(new)
+result.close()

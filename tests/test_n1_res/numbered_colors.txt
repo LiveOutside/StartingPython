@@ -1,0 +1,10 @@
+1 green
+2 emerald
+3 maroon
+4 brown
+5 salmon
+6 grey
+7 white
+8 snowy
+9 fiery
+10 purple
